@@ -1,6 +1,0 @@
-Introduction
-============
-:date: 2019-02-2
-:category: test
-
-Hello World!!!
